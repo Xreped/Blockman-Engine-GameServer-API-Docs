@@ -1,6 +1,3 @@
----
-created by xreped
----
 # Entity Class
 
 ## Properties
@@ -54,7 +51,7 @@ Description not provided
 
 Description not provided
 ### **dropItem**
-`dropItem(int, int)`
+`dropItem(numder, number)`
 
 Drops an item stack at the entity's position. Args: itemID, count
 
